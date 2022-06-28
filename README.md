@@ -1,3 +1,9 @@
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/jandemasmo/projeto_pizzaria/main/images/print.png" />
+</p>
+
+<br>
 ## 🚀 Tecnologias
 
 Foi usado as seguintes tecnologias nesse projeto.
