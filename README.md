@@ -1,3 +1,4 @@
+## 💻 Projeto
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/jandemasmo/projeto_pizzaria/main/images/print.png" />
@@ -14,7 +15,5 @@ Foi usado as seguintes tecnologias nesse projeto.
 
 Você pode acessar o projeto [aqui](https://projeto-pizzaria.netlify.app/)
 
-## 💻 Projeto
-
-Um pequeno projeto de Pizzaria em HTML, CSS e Javascript. Realizado no curso do Professor Bonieky.
+Um pequeno website de Pizzaria com carrinho. Onde Trabalhamos bastante manipulação de DOM.
 
