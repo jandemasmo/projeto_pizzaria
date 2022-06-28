@@ -1,11 +1,12 @@
 ## 🚀 Tecnologias
 
 Foi usado as seguintes tecnologias nesse projeto.
-Você pode acessar o projeto [aqui](https://projeto-pizzaria.netlify.app/)
 
 - HTML
 - CSS
 - JavaScript
+
+Você pode acessar o projeto [aqui](https://projeto-pizzaria.netlify.app/)
 
 ## 💻 Projeto
 
